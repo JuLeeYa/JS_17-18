@@ -1,0 +1,14 @@
+{
+  "name": "js_17-18",
+  "version": "0.4.1",
+  "description": "homework",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Julia",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
+}
